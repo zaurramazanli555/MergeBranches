@@ -1,0 +1,7 @@
+C:\Users\Guven Servis\Desktop\lessons\December\9\MergeBranches\KapialbankApp\KapialbankApp\bin\Debug\KapialbankApp.exe.config
+C:\Users\Guven Servis\Desktop\lessons\December\9\MergeBranches\KapialbankApp\KapialbankApp\bin\Debug\KapialbankApp.exe
+C:\Users\Guven Servis\Desktop\lessons\December\9\MergeBranches\KapialbankApp\KapialbankApp\bin\Debug\KapialbankApp.pdb
+C:\Users\Guven Servis\Desktop\lessons\December\9\MergeBranches\KapialbankApp\KapialbankApp\obj\Debug\KapialbankApp.csproj.AssemblyReference.cache
+C:\Users\Guven Servis\Desktop\lessons\December\9\MergeBranches\KapialbankApp\KapialbankApp\obj\Debug\KapialbankApp.csproj.CoreCompileInputs.cache
+C:\Users\Guven Servis\Desktop\lessons\December\9\MergeBranches\KapialbankApp\KapialbankApp\obj\Debug\KapialbankApp.exe
+C:\Users\Guven Servis\Desktop\lessons\December\9\MergeBranches\KapialbankApp\KapialbankApp\obj\Debug\KapialbankApp.pdb
