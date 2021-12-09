@@ -26,5 +26,9 @@ namespace KapialbankApp
         {
             Console.WriteLine("This is Api");
         }
+        public static void Reklam()
+        {
+            Console.WriteLine("This is ReklamApp");
+        }
     }
 }
